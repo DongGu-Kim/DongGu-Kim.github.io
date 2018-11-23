@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'We do not like our lodgings here the worse , I can tell you , for putting us in mind of those we first had at North Yarmouth.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Syme looked up at the wall , and saw a crudely - painted and pathetic religious picture.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Good Laertes : If you desire to know the certaintie Of your deere Fathers death , if writ in your reuenge , That Soop - stake you will draw both Friend and Foe , Winner and Looser.'      
 };
 
 function status(statusText) {
