@@ -8,9 +8,9 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'When the distressing communication at Uppercross was over , and he had seen the father and mother quite as composed as could be hoped , and the daughter all the better for being with them , he announced his intention of returning in the same carriage to Lyme ; and when the horses were baited , he was off .',
+      'It was evident that Charles Hayter was not well inclined towards Captain Wentworth .',
   'example2':
-      'In some den of exiled dreamers I was introduced to the great German Nihilist philosopher , Professor de Worms .',
+      'A barrel - organ in the street suddenly sprang with a jerk into a jovial tune .',
   'example3':
       'Why heere in Denmarke : I haue bin sixeteene heere , man and Boy thirty yeares'      
 };
