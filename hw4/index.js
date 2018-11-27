@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'We do not like our lodgings here the worse , I can tell you , for putting us in mind of those we first had at North Yarmouth .',
+      'I do not think they were .',
   'example2':
-      'Syme looked up at the wall , and saw a crudely - painted and pathetic religious picture .',
+      'You were ," said Syme seriously , and hung the heavy lantern over the front .',
   'example3':
-      'Good Laertes : If you desire to know the certaintie Of your deere Fathers death , if writ in your reuenge , That Soop - stake you will draw both Friend and Foe , Winner and Looser'      
+      'It is an Act to doe and to performe ; argall she drown ' d her selfe wittingly'      
 };
 
 function status(statusText) {
