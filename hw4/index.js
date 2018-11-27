@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'I do not think they were .',
+      'When the distressing communication at Uppercross was over , and he had seen the father and mother quite as composed as could be hoped , and the daughter all the better for being with them , he announced his intention of returning in the same carriage to Lyme ; and when the horses were baited , he was off .',
   'example2':
-      'You were ," said Syme seriously , and hung the heavy lantern over the front .',
+      'In some den of exiled dreamers I was introduced to the great German Nihilist philosopher , Professor de Worms .',
   'example3':
-      'It is an Act to doe and to performe ; argall she drown ' d her selfe wittingly'      
+      'Why heere in Denmarke : I haue bin sixeteene heere , man and Boy thirty yeares'      
 };
 
 function status(statusText) {
